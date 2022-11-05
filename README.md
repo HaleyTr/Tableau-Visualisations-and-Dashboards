@@ -16,3 +16,23 @@ This exercise is to create visualisations and dashboard and provide analysing do
 - Conduct 'what if' scenarios to improve overall profitability of the company when decrease or increase the supply amount of particular products
 
 3. Provide recommendation using the dashboard and any other visualisations
+
+## **Dataset 2: Coffee Bean Sales Data**
+
+This exercise is to provide 2 interactive dashboards for the user to explore:
+
+1. The performance of each outlet, including:
+
+- The comparison of sales for each of the active outlets
+
+- The three most popular products for each of the active outlets
+
+- Total of sales for the month of April and May for Coffee Bean and the total number of customers who made a purchase during those months
+
+2. The transactions and customers' consumption, including:
+
+- The top 5 customers (registered in the loyalty program) in terms of purchases and the total spend they made on monthly basis
+
+- The comparison of dine-in and take-away in terms of volume of transactions and $ value of the transactions
+
+- Which time of the day is generally busier than the rest
