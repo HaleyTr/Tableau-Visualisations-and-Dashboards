@@ -36,3 +36,7 @@ This exercise is to provide 2 interactive dashboards for the user to explore:
 - The comparison of dine-in and take-away in terms of volume of transactions and $ value of the transactions
 
 - Which time of the day is generally busier than the rest
+
+## **Dataset 3: Motor Corporation Sales Data**
+
+This exercise is to clean the data using Tableau Prep Builder and develop multiple dashboards including performance, financial, operations and forcasting of the Motor Corporation.
